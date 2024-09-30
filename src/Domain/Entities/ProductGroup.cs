@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using CleanArchitecture.Application.Common.Interfaces;
+//using CleanArchitecture.Application.Common.Interfaces;
 
-namespace CleanArchitecture.Application.Common.Models;
-public class ProductGroup : IProductGroup
+namespace CleanArchitecture.Domain.Entities;
+public class ProductGroup
 {
     [Key]
     public int Id { get; set; }

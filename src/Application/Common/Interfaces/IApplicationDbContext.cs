@@ -3,6 +3,7 @@ using CleanArchitecture.Domain.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
+
 namespace CleanArchitecture.Application.Common.Interfaces;
 
 public interface IApplicationDbContext
