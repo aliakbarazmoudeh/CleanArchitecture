@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
-//using CleanArchitecture.Application.Common.Interfaces;
+//using ProductService.Application.Common.Interfaces;
 
-namespace CleanArchitecture.Domain.Entities;
+namespace ProductService.Domain.Entities;
 public class ProductGroup
 {
     [Key]

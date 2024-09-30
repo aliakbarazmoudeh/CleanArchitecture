@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Web.Services;
+﻿namespace ProductService.Web.Services;
 
 public class ModelStateValidation
 {

@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore.Query;
 
-namespace CleanArchitecture.Application.Common.Interfaces;
+namespace ProductService.Application.Common.Interfaces;
 public interface IRepositoryService<T> where T : class
 {
     Task<IEnumerable<T>> GetAllAsync();

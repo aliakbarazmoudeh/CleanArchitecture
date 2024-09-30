@@ -1,6 +1,6 @@
-﻿using CleanArchitecture.Application.Common.Models;
+﻿using ProductService.Application.Common.Models;
 
-namespace CleanArchitecture.Application.Common.Interfaces;
+namespace ProductService.Application.Common.Interfaces;
 
 public interface IIdentityService
 {

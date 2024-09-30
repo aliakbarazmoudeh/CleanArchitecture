@@ -1,12 +1,12 @@
-﻿// using CleanArchitecture.Domain.Constants;
-// using CleanArchitecture.Infrastructure.Data;
-// using CleanArchitecture.Infrastructure.Identity;
+﻿// using ProductService.Domain.Constants;
+// using ProductService.Infrastructure.Data;
+// using ProductService.Infrastructure.Identity;
 // using MediatR;
 // using Microsoft.AspNetCore.Identity;
 // using Microsoft.EntityFrameworkCore;
 // using Microsoft.Extensions.DependencyInjection;
 //
-// namespace CleanArchitecture.Application.FunctionalTests;
+// namespace ProductService.Application.FunctionalTests;
 //
 // [SetUpFixture]
 // public partial class Testing

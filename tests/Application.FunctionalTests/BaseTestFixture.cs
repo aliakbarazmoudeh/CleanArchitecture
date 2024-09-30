@@ -1,4 +1,4 @@
-﻿// namespace CleanArchitecture.Application.FunctionalTests;
+﻿// namespace ProductService.Application.FunctionalTests;
 //
 // using static Testing;
 //

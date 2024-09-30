@@ -1,10 +1,10 @@
-﻿//using CleanArchitecture.Application.Common.Interfaces;
-//using CleanArchitecture.Domain.Common;
+﻿//using Product-Service.Application.Common.Interfaces;
+//using Product-Service.Domain.Common;
 //using Microsoft.EntityFrameworkCore;
 //using Microsoft.EntityFrameworkCore.ChangeTracking;
 //using Microsoft.EntityFrameworkCore.Diagnostics;
 
-//namespace CleanArchitecture.Infrastructure.Data.Interceptors;
+//namespace Product-Service.Infrastructure.Data.Interceptors;
 
 //public class AuditableEntityInterceptor : SaveChangesInterceptor
 //{

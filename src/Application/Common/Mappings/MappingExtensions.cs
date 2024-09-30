@@ -1,6 +1,6 @@
-﻿using CleanArchitecture.Application.Common.Models;
+﻿using ProductService.Application.Common.Models;
 
-namespace CleanArchitecture.Application.Common.Mappings;
+namespace ProductService.Application.Common.Mappings;
 
 public static class MappingExtensions
 {

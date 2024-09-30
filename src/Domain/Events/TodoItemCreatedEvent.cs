@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Domain.Events;
+﻿namespace ProductService.Domain.Events;
 
 public class TodoItemCreatedEvent : BaseEvent
 {

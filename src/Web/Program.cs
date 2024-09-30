@@ -1,4 +1,4 @@
-using CleanArchitecture.Infrastructure.Event;
+using ProductService.Infrastructure.Event;
 
 
 var builder = WebApplication.CreateBuilder(args);

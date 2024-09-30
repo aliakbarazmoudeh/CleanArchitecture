@@ -1,7 +1,7 @@
 ﻿using Azure.Identity;
-using CleanArchitecture.Application.Common.Interfaces;
-using CleanArchitecture.Infrastructure.Data;
-using CleanArchitecture.Web.Services;
+using ProductService.Application.Common.Interfaces;
+using ProductService.Infrastructure.Data;
+using ProductService.Web.Services;
 using Microsoft.AspNetCore.Mvc;
 
 #if (UseApiOnly)
@@ -36,7 +36,7 @@ public static class DependencyInjection
 
         services.AddOpenApiDocument((configure, sp) =>
         {
-            configure.Title = "CleanArchitecture API";
+            configure.Title = "ProductService API";
         });
 
         return services;

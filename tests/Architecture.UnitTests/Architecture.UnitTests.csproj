@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <RootNamespace>CleanArchitecture.Architecture.UnitTests</RootNamespace>
-    <AssemblyName>CleanArchitecture.Architecture.UnitTests</AssemblyName>
+    <RootNamespace>ProductService.Architecture.UnitTests</RootNamespace>
+    <AssemblyName>ProductService.Architecture.UnitTests</AssemblyName>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>

@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Web.AcceptanceTests.Pages;
+﻿namespace ProductService.Web.AcceptanceTests.Pages;
 
 public class LoginPage : BasePage
 {

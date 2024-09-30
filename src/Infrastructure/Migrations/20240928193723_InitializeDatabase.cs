@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace CleanArchitecture.Infrastructure.Migrations
+namespace ProductService.Infrastructure.Migrations
 {
     /// <inheritdoc />
     public partial class InitializeDatabase : Migration

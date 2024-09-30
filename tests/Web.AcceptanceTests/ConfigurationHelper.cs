@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 
-namespace CleanArchitecture.Web.AcceptanceTests;
+namespace ProductService.Web.AcceptanceTests;
 
 public static class ConfigurationHelper
 {

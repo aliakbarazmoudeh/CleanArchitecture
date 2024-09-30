@@ -1,4 +1,4 @@
-﻿global using CleanArchitecture.Web.AcceptanceTests.Pages;
+﻿global using ProductService.Web.AcceptanceTests.Pages;
 global using BoDi;
 global using FluentAssertions;
 global using Microsoft.Playwright;

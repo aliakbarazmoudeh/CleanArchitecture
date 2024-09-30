@@ -1,8 +1,8 @@
-﻿using CleanArchitecture.Application.Common.Exceptions;
+﻿using ProductService.Application.Common.Exceptions;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CleanArchitecture.Web.Infrastructure;
+namespace ProductService.Web.Infrastructure;
 
 public class CustomExceptionHandler : IExceptionHandler
 {

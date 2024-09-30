@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "CleanArchitecture.Web": {
+    "ProductService.Web": {
       "commandName": "Project",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:4005;http://localhost:4004",

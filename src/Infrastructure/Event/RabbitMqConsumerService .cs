@@ -1,11 +1,11 @@
 ﻿using RabbitMQ.Client;
 using System.Text;
 using RabbitMQ.Client.Events;
-using CleanArchitecture.Application.Common.Interfaces;
+using ProductService.Application.Common.Interfaces;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Hosting;
 
-namespace CleanArchitecture.Infrastructure.Event;
+namespace ProductService.Infrastructure.Event;
 
 
 public class RabbitMqConsumerService : IRabbitMqConsumerService

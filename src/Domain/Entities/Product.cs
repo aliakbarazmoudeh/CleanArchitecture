@@ -1,9 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
-//using CleanArchitecture.Application.Common;
-//using CleanArchitecture.Application.Common.Models;
+//using ProductService.Application.Common;
+//using ProductService.Application.Common.Models;
 
-namespace CleanArchitecture.Domain.Entities;
+namespace ProductService.Domain.Entities;
 public class Product 
 {
     [Key]

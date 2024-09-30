@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 
-namespace CleanArchitecture.Web.Infrastructure;
+namespace ProductService.Web.Infrastructure;
 
 public static class IEndpointRouteBuilderExtensions
 {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchitecture.Application.Common.Interfaces;
+namespace ProductService.Application.Common.Interfaces;
 public interface IProduct
 {
     int Id { get; set; }

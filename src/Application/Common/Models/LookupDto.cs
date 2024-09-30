@@ -1,6 +1,6 @@
-﻿using CleanArchitecture.Domain.Entities;
+﻿using ProductService.Domain.Entities;
 
-namespace CleanArchitecture.Application.Common.Models;
+namespace ProductService.Application.Common.Models;
 
 public class LookupDto
 {

@@ -1,10 +1,10 @@
-﻿using CleanArchitecture.Application.Common.Models;
-using CleanArchitecture.Domain.Entities;
+﻿using ProductService.Application.Common.Models;
+using ProductService.Domain.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 
-namespace CleanArchitecture.Application.Common.Interfaces;
+namespace ProductService.Application.Common.Interfaces;
 
 public interface IApplicationDbContext
 {

@@ -1,10 +1,10 @@
-﻿using CleanArchitecture.Application.Common.Interfaces;
-using CleanArchitecture.Domain.Constants;
-using CleanArchitecture.Infrastructure;
-using CleanArchitecture.Infrastructure.Data;
-//using CleanArchitecture.Infrastructure.Data.Interceptors;
-using CleanArchitecture.Infrastructure.Event;
-using CleanArchitecture.Infrastructure.Identity;
+﻿using ProductService.Application.Common.Interfaces;
+using ProductService.Domain.Constants;
+using ProductService.Infrastructure;
+using ProductService.Infrastructure.Data;
+//using Product-Service.Infrastructure.Data.Interceptors;
+using ProductService.Infrastructure.Event;
+using ProductService.Infrastructure.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;

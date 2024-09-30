@@ -1,14 +1,14 @@
 ﻿//using System.Runtime.InteropServices;
-//using CleanArchitecture.Domain.Constants;
-//using CleanArchitecture.Domain.Entities;
-//using CleanArchitecture.Infrastructure.Identity;
+//using Product-Service.Domain.Constants;
+//using Product-Service.Domain.Entities;
+//using Product-Service.Infrastructure.Identity;
 //using Microsoft.AspNetCore.Builder;
 //using Microsoft.AspNetCore.Identity;
 //using Microsoft.EntityFrameworkCore;
 //using Microsoft.Extensions.DependencyInjection;
 //using Microsoft.Extensions.Logging;
 
-//namespace CleanArchitecture.Infrastructure.Data;
+//namespace Product-Service.Infrastructure.Data;
 
 //public static class InitialiserExtensions
 //{

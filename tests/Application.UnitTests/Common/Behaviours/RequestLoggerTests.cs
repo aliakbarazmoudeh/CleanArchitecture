@@ -1,11 +1,11 @@
-﻿//using CleanArchitecture.Application.Common.Behaviours;
-//using CleanArchitecture.Application.Common.Interfaces;
-//using CleanArchitecture.Application.TodoItems.Commands.CreateTodoItem;
+﻿//using ProductService.Application.Common.Behaviours;
+//using ProductService.Application.Common.Interfaces;
+//using ProductService.Application.TodoItems.Commands.CreateTodoItem;
 //using Microsoft.Extensions.Logging;
 //using Moq;
 //using NUnit.Framework;
 
-//namespace CleanArchitecture.Application.UnitTests.Common.Behaviours;
+//namespace ProductService.Application.UnitTests.Common.Behaviours;
 
 //public class RequestLoggerTests
 //{

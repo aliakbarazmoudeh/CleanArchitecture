@@ -1,4 +1,4 @@
-﻿namespace CleanArchitecture.Domain.ValueObjects;
+﻿namespace ProductService.Domain.ValueObjects;
 
 public class Colour(string code) : ValueObject
 {

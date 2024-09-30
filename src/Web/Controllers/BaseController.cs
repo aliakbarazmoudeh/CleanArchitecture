@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace CleanArchitecture.Web.Controllers;
+namespace ProductService.Web.Controllers;
 public class BaseController : Controller
 {
     protected IActionResult? ValidateModelState()

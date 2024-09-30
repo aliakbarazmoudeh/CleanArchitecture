@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <RootNamespace>CleanArchitecture.Infrastructure</RootNamespace>
-    <AssemblyName>CleanArchitecture.Infrastructure</AssemblyName>
+    <RootNamespace>ProductService.Infrastructure</RootNamespace>
+    <AssemblyName>ProductService.Infrastructure</AssemblyName>
   </PropertyGroup>
 
   <!--#if ('True' == 'False')-->

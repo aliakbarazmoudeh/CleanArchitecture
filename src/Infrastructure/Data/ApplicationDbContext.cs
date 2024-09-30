@@ -1,12 +1,12 @@
 ﻿using System.Reflection;
-using CleanArchitecture.Application.Common.Interfaces;
-using CleanArchitecture.Application.Common.Models;
-using CleanArchitecture.Domain.Entities;
-using CleanArchitecture.Infrastructure.Identity;
+using ProductService.Application.Common.Interfaces;
+using ProductService.Application.Common.Models;
+using ProductService.Domain.Entities;
+using ProductService.Infrastructure.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace CleanArchitecture.Infrastructure.Data;
+namespace ProductService.Infrastructure.Data;
 
 public class ApplicationDbContext : IdentityDbContext<ApplicationUser> , IApplicationDbContext
 {

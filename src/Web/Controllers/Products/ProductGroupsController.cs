@@ -1,8 +1,8 @@
-﻿using CleanArchitecture.Application.Common.Interfaces;
-using CleanArchitecture.Domain.Entities;
+﻿using ProductService.Application.Common.Interfaces;
+using ProductService.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CleanArchitecture.Web.Controllers.Products;
+namespace ProductService.Web.Controllers.Products;
 
 [Route("Categories")]
 public class ProductGroupsController : BaseController

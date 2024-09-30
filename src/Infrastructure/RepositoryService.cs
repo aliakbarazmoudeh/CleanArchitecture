@@ -4,11 +4,11 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using CleanArchitecture.Application.Common.Interfaces;
+using ProductService.Application.Common.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query;
 
-namespace CleanArchitecture.Infrastructure;
+namespace ProductService.Infrastructure;
 public class RepositoryService<T> : IRepositoryService<T> where T : class
 {
     private readonly DbContext _context;

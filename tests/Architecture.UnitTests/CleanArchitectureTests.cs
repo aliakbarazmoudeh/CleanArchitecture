@@ -3,22 +3,22 @@ using System.Reflection;
 using System.Linq;
 using Xunit;
 
-namespace CleanArchitecture.Architecture.UnitTests;
+namespace ProductService.Architecture.UnitTests;
 
-public class CleanArchitectureTests
+public class ProductServiceTests
 {
     private readonly Assembly _applicationAssembly;
     private readonly Assembly _infrastructureAssembly;
     private readonly Assembly _webApiAssembly;
     private readonly Assembly _domain;
 
-    public CleanArchitectureTests()
+    public ProductServiceTests()
     {
         // Load your assemblies here
-        _applicationAssembly = Assembly.Load("CleanArchitecture.Application");
-        _domain = Assembly.Load("CleanArchitecture.Domain");
-        _infrastructureAssembly = Assembly.Load("CleanArchitecture.Infrastructure");
-        _webApiAssembly = Assembly.Load("CleanArchitecture.Web");
+        _applicationAssembly = Assembly.Load("ProductService.Application");
+        _domain = Assembly.Load("ProductService.Domain");
+        _infrastructureAssembly = Assembly.Load("ProductService.Infrastructure");
+        _webApiAssembly = Assembly.Load("ProductService.Web");
     }
 
     [Fact]

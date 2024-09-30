@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Hosting;
 
-namespace CleanArchitecture.Application.Common.Interfaces;
+namespace ProductService.Application.Common.Interfaces;
 public interface IRabbitMqConsumerService
 {
     void StartAsync();

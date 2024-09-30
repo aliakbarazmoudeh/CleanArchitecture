@@ -1,5 +1,5 @@
 ﻿using System.Reflection;
-using CleanArchitecture.Application.Common.Behaviours;
+using ProductService.Application.Common.Behaviours;
 
 namespace Microsoft.Extensions.DependencyInjection;
 

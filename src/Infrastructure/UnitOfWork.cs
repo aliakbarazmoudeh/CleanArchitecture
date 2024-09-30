@@ -1,9 +1,9 @@
-﻿using CleanArchitecture.Application.Common.Interfaces;
-using CleanArchitecture.Infrastructure.Data;
-using CleanArchitecture.Domain.Entities;
+﻿using ProductService.Application.Common.Interfaces;
+using ProductService.Infrastructure.Data;
+using ProductService.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace CleanArchitecture.Infrastructure;
+namespace ProductService.Infrastructure;
 public class UnitOfWork : IUnitOfWork
 {
     private readonly DbContext _context;

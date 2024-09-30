@@ -1,8 +1,8 @@
-﻿//using CleanArchitecture.Domain.Entities;
+﻿//using Product-Service.Domain.Entities;
 //using Microsoft.EntityFrameworkCore;
 //using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-//namespace CleanArchitecture.Infrastructure.Data.Configurations;
+//namespace Product-Service.Infrastructure.Data.Configurations;
 
 //public class TodoListConfiguration : IEntityTypeConfiguration<TodoList>
 //{

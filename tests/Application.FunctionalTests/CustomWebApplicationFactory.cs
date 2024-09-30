@@ -1,6 +1,6 @@
 ﻿// using System.Data.Common;
-// using CleanArchitecture.Application.Common.Interfaces;
-// using CleanArchitecture.Infrastructure.Data;
+// using ProductService.Application.Common.Interfaces;
+// using ProductService.Infrastructure.Data;
 // using Microsoft.AspNetCore.Hosting;
 // using Microsoft.AspNetCore.Mvc.Testing;
 // using Microsoft.AspNetCore.TestHost;
@@ -9,7 +9,7 @@
 // using Microsoft.Extensions.DependencyInjection;
 // using Microsoft.Extensions.DependencyInjection.Extensions;
 //
-// namespace CleanArchitecture.Application.FunctionalTests;
+// namespace ProductService.Application.FunctionalTests;
 //
 // using static Testing;
 //

@@ -1,8 +1,8 @@
 ﻿using System.Security.Claims;
 
-using CleanArchitecture.Application.Common.Interfaces;
+using ProductService.Application.Common.Interfaces;
 
-namespace CleanArchitecture.Web.Services;
+namespace ProductService.Web.Services;
 
 public class CurrentUser : IUser
 {
